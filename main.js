@@ -21,5 +21,5 @@ function calculateWeight(earthWeight, planet) {
   }
 }
 
-console.log(calculateweight(150, , 'Jupiter'));
+console.log(calculateweight(150, 'Jupiter'));
 /// Outputs 354
